@@ -1,5 +1,5 @@
-- 👋 Hi my name is Joao Victor Lira, I'm a Brazilian Computer Science student at Iowa State University, I love learning new languages and especially workiing on interesting projects. I used Java for most of the time I spent in college, but during this last year I realized that the visual element of Web Development and Front-End has been much more appealing to me i shifted my attention a lot more towards this area
-- 👀 I'm currently perfecting my CSS
+- 👋 Hi! my name is Joao Victor Lira, I'm a Brazilian Computer Science student at Iowa State University. I love learning new languages and working on interesting projects. I used Java for most of the time I spent in college, but during last year I realized that the visual element of Front-end Web development is much more appealing to me, so i shifted my attention a lot more towards this area.
+- 👀 I'm currently working on THE ODIN PROJECT`s curriculum. I`m at 80% on foundations.
 - 📫 My email is jlira@iastate.edu | My discord is JLira_br#7185
 
 <div style="display: inline_block"><br>
