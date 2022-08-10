@@ -1,6 +1,6 @@
-- 👋 Ola meu nome é Joao Victor Lira, sou um estudante de Ciência da Computação em Iowa State University, adoro aprender linguages novas e produzir projetos interessantes. Usei Java por boa parte do tempo que passei na faculdade porém nesse ultimo ano percebi que o fator visual de Desenvolvimento Web e Front-End tem sido mais chamativo para mim e tenho me voltado bem mais para essa área
-- 👀 Atualmente estou aperfeiçoando meu CSS
-- 📫 Meu email é jlira@iastate.edu | Meu discord é JLira_br#7185
+- 👋 Hi my name is Joao Victor Lira, I'm a Brazilian Computer Science student at Iowa State University, I love learning new languages and especially workiing on interesting projects. I used Java for most of the time I spent in college, but during this last year I realized that the visual element of Web Development and Front-End has been much more appealing to me i shifted my attention a lot more towards this area
+- 👀 I'm currently perfecting my CSS
+- 📫 My email is jlira@iastate.edu | My discord is JLira_br#7185
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
